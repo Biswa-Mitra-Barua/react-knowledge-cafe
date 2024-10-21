@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/BcbxCdJ/my-blog-image-01.jpg",
+      "title": "The Rise of AI",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/swMNK6y/my-blog-author-01.jpg",
+      "posted_date": "2024-10-20",
+      "reading_time": 5,
+      "hashtags": ["#AI", "#Technology", "#Future"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/pJTjZx5/my-blog-image-02.jpg",
+      "title": "Exploring the Universe",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/mCwp4mL/my-blog-author-02.jpg",
+      "posted_date": "2024-10-18",
+      "reading_time": 7,
+      "hashtags": ["#Space", "#Science", "#Astronomy"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/pJTjZx5/my-blog-image-02.jpghttps://i.ibb.co.com/t3z7mjn/my-blog-image-03.jpg",
+      "title": "The Future of Renewable Energy",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co.com/HVymxMr/my-blog-author-03.jpg",
+      "posted_date": "2024-10-15",
+      "reading_time": 4,
+      "hashtags": ["#Energy", "#Renewables", "#ClimateChange"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/pJTjZx5/my-blog-image-02.jpghttps://i.ibb.co.com/t3z7mjn/my-blog-image-03.jpghttps://i.ibb.co.com/X8v48dW/my-blog-image-04.jpg",
+      "title": "Mastering Python",
+      "author": "Emily Clark",
+      "author_img": "https://i.ibb.co.com/mCwp4mL/my-blog-author-02.jpghttps://i.ibb.co.com/2M4htcq/my-blog-author-04.jpg",
+      "posted_date": "2024-10-12",
+      "reading_time": 10,
+      "hashtags": ["#Python", "#Programming", "#Code"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/tsY1FmX/my-blog-image-05.jpg",
+      "title": "Healthy Living in the 21st Century",
+      "author": "Sarah Lee",
+      "author_img": "https://i.ibb.co.com/6FmB6mg/my-blog-author-05.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": 8,
+      "hashtags": ["#Health", "#Wellness", "#Lifestyle"]
+    }
+  ]
+  
